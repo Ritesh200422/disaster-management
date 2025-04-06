@@ -94,7 +94,7 @@ export default function Home() {
                               <td>Landslide</td>
                               <td>Hydrabad</td>
                               <td>Medium (2/10)</td>
-                              <td>Today 15:45</td>
+                              <td>Today 11:50</td>
                             </tr>
                             <tr>
                               <td>Fire</td>
