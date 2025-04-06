@@ -102,6 +102,12 @@ export default function Home() {
                               <td>Low (1/10)</td>
                               <td>Today 10:45</td>
                             </tr>
+                            <tr>
+                              <td>Hurricane</td>
+                              <td>Bengalurru</td>
+                              <td>Low (1/10)</td>
+                              <td>Today 10:45</td>
+                            </tr>
                       </>
                     )}
                   </tbody>
