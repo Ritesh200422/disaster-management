@@ -86,10 +86,22 @@ export default function Home() {
                         </tr>
                         <tr>
                           <td>Landslide</td>
-                          <td>Mountain Pass</td>
+                          <td>Chennai</td>
                           <td>Medium (5/10)</td>
                           <td>Today 15:45</td>
                         </tr>
+                            <tr>
+                              <td>Landslide</td>
+                              <td>Hydrabad</td>
+                              <td>Medium (2/10)</td>
+                              <td>Today 15:45</td>
+                            </tr>
+                            <tr>
+                              <td>Fire</td>
+                              <td>Rajamahendraverma</td>
+                              <td>Low (1/10)</td>
+                              <td>Today 10:45</td>
+                            </tr>
                       </>
                     )}
                   </tbody>
