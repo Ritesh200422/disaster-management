@@ -3,7 +3,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Disaster Management System',
-  description: 'MVP for disaster prediction and response',
+  description: 'MVP for disaster management and response',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
